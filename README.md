@@ -12,4 +12,4 @@ This process can be improved by using a DIC (dependency injection container, i.e
 
 Tutorial
 ========
-[Podcast[(http://www.youtube.com/playlist?list=PL4lTrYcDuAfzwlro1ypv3uFUgqdyk0vMm&feature=view_all)
+[Podcast](http://www.youtube.com/playlist?list=PL4lTrYcDuAfzwlro1ypv3uFUgqdyk0vMm&feature=view_all)
