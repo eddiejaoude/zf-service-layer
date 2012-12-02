@@ -1,5 +1,5 @@
-zf-service-layer
-================
+ZF Service Layer (zend framework)
+=================================
 
 Example of how to create a simple service layer within Zend Framework to handle business logic.
 
