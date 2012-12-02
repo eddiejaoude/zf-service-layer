@@ -16,6 +16,8 @@ class Application_Model_Service_User
     public function getFirstUser()
     {
         // get mock object to inject as datasource
+        // this would actually be a real datasource, i.e. webservice, database
+        // in a unit test, a mock would be injected similar to below
         $mock = new Test_Application_Model_Mock_User;
 
         // create mapper & inject mock datasource
