@@ -8,3 +8,8 @@ By injecting different datasources (i.e. webservice, database, mock) from the se
 allow the developer/tester/automated tool to easily test boundary conditions as well as happy path.
 
 This process can be improved by using a DIC (dependency injection container, i.e. ZF2).
+
+
+Tutorial
+========
+[Podcast[(http://www.youtube.com/playlist?list=PL4lTrYcDuAfzwlro1ypv3uFUgqdyk0vMm&feature=view_all)
