@@ -2,7 +2,7 @@
 /**
  * Entity exception
  */
-class Entity_Exception extends Exception
+class Application_Model_Entity_Exception extends Exception
 {
 
 }

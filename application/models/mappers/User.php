@@ -15,14 +15,14 @@ class Application_Model_Mapper_User
     /**
      * Get datasource
      *
-     * @throws Entity_Exception
+     * @throws Application_Model_Entity_Exception
      * @return Application_Datasource
      */
     public function getDatasource()
     {
         if (empty($this->datasource)) {
-            throw new Entity_Exception('No datasource available. Please set a datasource with using
-            $mapper->setDatasource($datasource)');
+            throw new Application_Model_Entity_Exception('No datasource available. Please set a datasource by using
+            $mapper->setDatasource($datasource), where $datasource object must implement Application_Datasource');
         }
         return $this->datasource;
     }
